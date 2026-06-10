@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemaps
-Sitemap: https://bebetocoachservices.com/sitemap.xml
+Sitemap: https://bebetocoach.online/sitemap.xml
 
 # Crawl-delay (optional, for polite bots)
 Crawl-delay: 10
