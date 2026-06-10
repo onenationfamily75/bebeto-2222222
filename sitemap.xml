@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- Home / Landing -->
+  <url>
+    <loc>https://bebetocoachservices.com/</loc>
+    <lastmod>2025-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://bebetocoachservices.com/bebeto-hero.jpg</image:loc>
+      <image:title>Bebeto Coach Services – Luxury Bus Travel East Africa</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://bebetocoachservices.com/opengraph.jpg</image:loc>
+      <image:title>Bebeto Coach Services</image:title>
+    </image:image>
+  </url>
+
+  <!-- Destinations section (anchor) -->
+  <url>
+    <loc>https://bebetocoachservices.com/#destinations</loc>
+    <lastmod>2025-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://bebetocoachservices.com/bebeto-nrb2.jpg</image:loc>
+      <image:title>Nairobi to Kampala Bus Route</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://bebetocoachservices.com/bebeto-nrb1.jpg</image:loc>
+      <image:title>Kampala to Nairobi Bus Route</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://bebetocoachservices.com/juba-office.jpg</image:loc>
+      <image:title>Nairobi to Juba Bus Route</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://bebetocoachservices.com/bebeto12.jpg</image:loc>
+      <image:title>Nairobi to Kakuma Bus Route</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://bebetocoachservices.com/bebeto18.jpg</image:loc>
+      <image:title>Kampala to Juba Bus Route</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://bebetocoachservices.com/bebeto20.jpg</image:loc>
+      <image:title>Juba to Kampala Bus Route</image:title>
+    </image:image>
+  </url>
+
+  <!-- About Us section (anchor) -->
+  <url>
+    <loc>https://bebetocoachservices.com/#about</loc>
+    <lastmod>2025-06-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Contact / Footer section (anchor) -->
+  <url>
+    <loc>https://bebetocoachservices.com/#contact</loc>
+    <lastmod>2025-06-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+</urlset>

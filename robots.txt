@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+# Block admin or internal paths (none currently, but listed for future use)
+Disallow: /api/
+Disallow: /.local/
+
+# Sitemaps
+Sitemap: https://bebetocoachservices.com/sitemap.xml
+
+# Crawl-delay (optional, for polite bots)
+Crawl-delay: 10
